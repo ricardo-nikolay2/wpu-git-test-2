@@ -9,6 +9,12 @@
 <body>
     
     <h1>hello world</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum dolorum provident omnis velit? Odit, reprehenderit possimus hic nobis deserunt delectus consequuntur nam aut, adipisci recusandae soluta velit a. Quasi, magni.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum dolorum provident omnis velit? Odit, reprehenderit possimus hic nobis deserunt delectus consequuntur nam aut, adipisci recusandae soluta velit a. Quasi, magni.<P>
+    <ul>
+        <li>1. list</li>
+        <li>2. list</li>
+        <li>3. list</li>
+    </ul>
+    
 </body>
 </html>
